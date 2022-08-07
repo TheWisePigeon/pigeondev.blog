@@ -68,3 +68,8 @@ body{
   background-color: black;
   color: white;
 }
+
+.rounded {
+  border-radius: 25px;
+  padding: 20px; 
+}

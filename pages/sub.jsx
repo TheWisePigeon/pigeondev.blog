@@ -6,7 +6,7 @@ export default function Sub() {
         <div>
             <p>Subscribe to my newsletter, I won't spam you :)</p>
             <form action="" method="post">
-                <input type="text" name="sub" id="sub" placeholder='yourmail@domain.com' className='' />
+                <input type="text" name="sub" id="sub" placeholder='yourmail@domain.com' className='rounded' />
             </form>
         </div>
     </>
