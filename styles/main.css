@@ -83,7 +83,7 @@ body{
   margin-top: 6px;
 }
 
-.sub :hover{
-  background-color: black;
+.sub:hover{
+  background: black;
   color: wheat;
 }
