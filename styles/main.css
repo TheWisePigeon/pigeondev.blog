@@ -70,6 +70,20 @@ body{
 }
 
 .rounded {
-  border-radius: 25px;
-  padding: 20px; 
+  border-radius: 5px;
+  padding: 10px; 
+}
+
+
+.sub{
+  background-color: gray;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 6px;
+}
+
+.sub :hover{
+  background-color: black;
+  color: wheat;
 }
