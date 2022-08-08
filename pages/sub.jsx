@@ -5,6 +5,7 @@ import { useState } from 'react'
 export default function Sub() {
 
     const [loading, setLoading] = useState(false)
+    const [subed, setSubbed] = useState(false)
     async function handleFormSubmit(event) {
         setLoading(true)
         event.preventDefault()
@@ -16,7 +17,7 @@ export default function Sub() {
         ).then(
             (res)=>{
                 setLoading(false)
-                console.log(res);
+                setSubbed(true)
             }
         ).catch(
             err=>{
@@ -29,12 +30,13 @@ export default function Sub() {
     return (
         <div>
             <p>Subscribe to my newsletter, I won't spam you 😇</p>
-            <form action="" onSubmit={handleFormSubmit} method="post">
+            <form action="" hidden={subed} onSubmit={handleFormSubmit} method="post">
                 <input type="text" name="sub" required id="sub" placeholder='yourmail@domain.com' className='rounded' /><br />
                 <button type="submit" className='sub'>
                     {loading?"...":"Subscribe"}
                 </button>
             </form>
+            <p hidden={!subed} >Thanks :)</p>
 
         </div>
     )
