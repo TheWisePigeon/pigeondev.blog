@@ -26,3 +26,6 @@ An HTML document is a collection of [HTML elements](), represented by **tags**. 
 CSS, is used to style elements. It can be used inside of the element tags which is called **Inline styling**, or in a **style tag** nested in the DOM but also in a separate .css file, which is linked to the webpage and use **Selectors** to target elements in the DOM.
 
 JavaScript is responsible of controlling the behavior of the elements, it helps developers build interactive and dynamic webpages. Like css, it can be used inside of a **script tag** or in a separate .js file, which is linked to the webpage.
+
+These are the very basics thing you need to know to get started with web development, it might seem very small but it is very important to have a good understanding of these before moving up to the most advanced topics. With the daily evolution of the web, it has become very hard to build quality websites with just plain HTML and CSS. The rise of [Frameworks](https://en.wikipedia.org/wiki/Framework_(software)) and [Libraries](https://en.wikipedia.org/wiki/Library_(software)) has made it easier to build websites but has also added to the amount of knowledge needed to build on the web today. These Frameworks are based on HTML, CSS and JavaScript. That's why having a good understanding of how they work is not a waste of time.
+
