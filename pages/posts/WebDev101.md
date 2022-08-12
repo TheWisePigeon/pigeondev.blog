@@ -22,7 +22,7 @@ When looking at a **webpage**, the content you see is more often created using 3
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Used to style the content of a webpage.
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Used to control the content of a webpage.
 
-An HTML document is a collection of [HTML elements](https://en.wikipedia.org/wiki/HTML_elements), represented by **tags**. These elements can have one or more [attributes]() to change their appearance or behavior and are nested inside each other to form the **Document Object Model**( [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)).
+An HTML document is a collection of [HTML elements](https://en.wikipedia.org/wiki/HTML_elements), represented by **tags**. These elements can have one or more [attributes](https://en.wikipedia.org/wiki/HTML_attribute) to change their appearance or behavior and are nested inside each other to form the **Document Object Model**( [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)).
 
 CSS, is used to style elements. It can be used inside of the element tags which is called **Inline styling**, or in a **style tag** nested in the DOM but also in a separate .css file, which is linked to the webpage and use **Selectors** to target elements in the DOM.
 
