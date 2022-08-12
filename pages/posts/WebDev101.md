@@ -2,6 +2,9 @@
 type: post
 title: WebDev 1️⃣⭕1️⃣
 date: 2022-08-12
+tag: web development
+description: Basic stuff about web development
+author: TheWisePigeon
 ---
 import Comments from '../comment.js'
 import Sub from '../sub.jsx'
