@@ -4,6 +4,7 @@ title: WebDev 1️⃣⭕1️⃣
 date: 2022-08-12
 ---
 import Comments from '../comment.js'
+import Sub from '../sub.jsx'
 
 Hi folks, this is my very first post on this blog. In this post I will be going over some stuff you need to know to get started with web development. I hope it will be useful to beginners and why not remind something to intermediate or advanced web developers.
 Without further a do, let's get started!!
@@ -31,4 +32,8 @@ These are the very basics thing you need to know to get started with web develop
 
 This is the end of this post. I hope you enjoyed it and if you have any questions or comments, feel free to leave a comment below. I will make a series of posts on web development, this is the first one of them. So if you are a beginner and want to learn web development from scratch to the most advanced topics, mind subscribiing to my newsletter and you will be notified when there is a new post.
 
+<Sub />
+
 Until next time, Stay safe and write code!!🐦
+
+<Comments />
