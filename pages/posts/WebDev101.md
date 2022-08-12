@@ -12,7 +12,7 @@ Without further a do, let's get started!!
 
 It all started with the [Internet](https://en.wikipedia.org/wiki/Internet), a global network of computers and devices that are interconnected by the [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol) which is a set of rules that standardize the way computers share data between each other and identify each computer by a unique [IP address](https://en.wikipedia.org/wiki/IP_address) on the Internet. 
 
-Then came the [World Wide Web]() also known as the **Web**, it refers to all the public **websites** or **pages** that users can access on their local computers and other devices through the Internet.
+Then came the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) also known as the **Web**, it refers to all the public **websites** or **pages** that users can access on their local computers and other devices through the Internet.
 
 A website is a collection of web pages that are interconnected by [Hyperlinks]() which are links that point to other web pages. 
 Websites are hosted on other computers called [Servers](). To access a website, a user usually needs a [web browser](https://en.wikipedia.org/wiki/Web_browser) which is a program that send [Requests](https://en.wikipedia.org/wiki/HTTP_request) to a server and receives a response which is displayed on the user's screen. The browser is called a **Client**. 
